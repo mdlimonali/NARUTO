@@ -41,4 +41,6 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git commit -am "Updated quote"
           git push![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)> <!--QUOTE-->THE MAGIC YOU ARE LOKING FOR IS IN THE WORK YOU ARE AVOIDING
-         
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=600&lines=THE+MAGIC+YOU+ARE+LOOKING+FOR;IS+IN+THE+WORK+YOU+ARE+AVOIDING" />
+</p>         
